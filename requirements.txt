@@ -1,0 +1,5 @@
+chromadb==0.5.15
+llama_index==0.11.18
+langchain_ollama==0.2.0
+langchain_community==0.3.3
+# ipykernel # Only if you're using Jupyter notebooks

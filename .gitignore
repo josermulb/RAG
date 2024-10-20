@@ -168,7 +168,7 @@ env_RAG
 # Data
 
 data/documents/*
-chroma/*
+data/chroma/*
 
 # Others
 notebooks/usage_example.ipynb
